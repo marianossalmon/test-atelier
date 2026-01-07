@@ -1,5 +1,0 @@
-touch models/.gitkeep
-
-git add models/.gitkeep
-git commit -m "creo carpeta models"
-git push
